@@ -1,0 +1,16 @@
+.array-container {
+      background-color: #0c0e0c;
+      position: relative;
+      /* align-items: bottom; */
+      /* left: 100px; */
+      /* top: 100px; */
+}
+
+.array-bar {
+      width: 1px;
+      top: 30px;
+      display: inline-block;
+      margin: 0 1px;
+      position: relative;
+      /* align-self: bottom; */
+}

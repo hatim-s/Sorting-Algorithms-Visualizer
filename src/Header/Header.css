@@ -1,0 +1,19 @@
+.Header {
+      background-color: #0e0e0e;
+      height: 10vh;
+      width: 100%;
+      text-align: center;
+      color: white;
+      font-size: 4vh;
+      text-decoration: none;
+}
+
+a {
+      text-decoration: none;
+      color: white;
+}
+
+a:hover {
+      text-decoration: none;
+      color: #d8323c;
+}
